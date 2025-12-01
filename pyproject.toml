@@ -31,5 +31,5 @@ dependencies = [
     "xmltodict>=0.14.2",
 ]
 
-[tool.setuptools.packages.find]
-include = ["cyteonto"]
+[tool.setuptools]
+packages = ["cyteonto"]
