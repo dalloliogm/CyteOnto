@@ -3,11 +3,10 @@ name = "cyteonto"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"
 dependencies = [
     "aiohttp>=3.12.15",
     "anndata>=0.12.2",
-    "asyncio>=4.0.0",
     "fastapi>=0.116.1",
     "iprogress>=0.4",
     "ipykernel>=6.30.1",
