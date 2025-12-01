@@ -30,3 +30,6 @@ dependencies = [
     "tqdm>=4.67.1",
     "xmltodict>=0.14.2",
 ]
+
+[tool.setuptools.packages.find]
+include = ["cyteonto"]
